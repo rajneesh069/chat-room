@@ -2,7 +2,7 @@
 
 - This app contains the demo of `Tanstack Query` and `Websockets`.
 
-## Setup the project locally
+## Setup and run the project locally
 
 1. Clone the repository.
 
